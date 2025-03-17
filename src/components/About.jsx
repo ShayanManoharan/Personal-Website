@@ -47,9 +47,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Hi, I’m Shayan Manoharan—a passionate software engineer and computer science student at
-        The Ohio State University, set to graduate in 2027. I specialize in software development, 
-        combining technical expertise with creative problem- solving. I enjoy creating innovative 
+        Hello, I’m Shayan—a passionate software engineer and computer science student at The 
+        Ohio State University, set to graduate in May 2027. I specialize in software development, 
+        combining technical expertise with creative problem-solving. I enjoy creating innovative 
         solutions and learning new technologies. Outside of school, you’ll find me playing basketball,
         spending time with family and friends, or playing the Piano. I’m passionate about playing the
         piano because it’s not just a beautiful art form—it’s a way to express creativity while teaching 

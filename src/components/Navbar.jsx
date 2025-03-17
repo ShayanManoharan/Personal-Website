@@ -44,7 +44,7 @@ const Navbar = () => {
         >
           <img src={SMlogo} alt='SMlogo' className='w-9 h-9 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
-            Hello, I'm Shayan Manoharan &nbsp;
+            Shayan Manoharan &nbsp;
             {/* <span className='sm:block hidden'> | CSE student at The Ohio State University</span> */}
           </p>
         </Link>
