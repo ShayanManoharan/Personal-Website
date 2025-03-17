@@ -8,7 +8,7 @@ import { slideIn } from "../utils/motion";
 // Import icons directly from the assets folder
 import Gmail from "../assets/Gmail.png";
 import LinkedIn from "../assets/LinkedIn.png";
-import GitHub from "../assets/GitHub.png";
+import GitHub from "../assets/github.png";
 import ResumePNG from "../assets/Resume.png";
 import Resume from "../assets/Manoharan_Shayan_Resume.pdf";
 
