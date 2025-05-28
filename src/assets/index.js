@@ -44,6 +44,7 @@ import LinkedIn from "./LinkedIn.png";
 import ResumePNG from "./Resume.png";
 import Gmail from "./Gmail.png";
 import Resume from "./Manoharan_Shayan_Resume.pdf";
+import FutureMap from "./FutureMap.png";
 
 export {
   logo,
@@ -88,4 +89,5 @@ export {
   Vuejs,
   C,
   Resume,
+  FutureMap
 };

@@ -34,6 +34,7 @@ import {
     Vuejs,
     C,
     Resume,
+    FutureMap,
   } from "../assets";
   
   export const navLinks = [
@@ -73,14 +74,15 @@ import {
   
   const experiences = [
     {
-      title: "Incoming Software Engineering Intern",
+      title: "Software Engineer Intern",
       company_name: "WillowTree",
       icon: WillowTree,
       iconBg: "#383E56",
       date: "May 2025 - August 2025",
       link: "https://www.willowtreeapps.com",
       points: [
-        "Incoming",    
+        "Integrated live Radar SDK across 4,300+ stores in Swift to boost real-time location accuracy and app reliability, enhancing the app’s ability to deliver location-based services at scale.",
+        "Building components for a “Favorite Order” feature designed to improve repeat order flow efficiency by 30% for over 2 million users, streamlining the user experience through personalized, high-traffic ordering paths.",    
       ],
     },
     {
@@ -114,9 +116,30 @@ import {
   
   const projects = [
     {
+      name: "Future Map",
+      description:
+        "Developed an AI-powered academic planning tool aimed at helping over 3.7 million students navigate post-graduation uncertainty. Leveraging the OpenAI API, I built a personalized recommendation engine to boost student engagement by generating over five dynamic content modules—including suggested majors, programs, and certifications—delivered through a real-time, interactive dashboard.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "typescript",
+          color: "pink-text-gradient",
+        },
+        {
+            name: "openAI API",
+            color: "red-text-gradient",
+          },
+      ],
+      image: FutureMap,
+      source_code_link: "https://github.com/ShayanManoharan",
+    },
+    {
       name: "PharmaGo",
       description:
-        "Developed a cross-platform touchscreen application to expand market reach by 25%, addressing the pharmaceutical delivery needs of individuals. Utilized React z and Google Maps API kit to create a user-friendly interface with large buttons and clear directions to help the elderly navigate unfamiliar technology with ease. Optimized trust and certification system for secure prescription drug delivery",
+        "Developed a cross-platform touchscreen application to expand market reach by 25%, addressing the pharmaceutical delivery needs of individuals. Utilized React and Google Maps API kit to create a user-friendly interface with large buttons and clear directions to help the elderly navigate unfamiliar technology with ease. Optimized trust and certification system for secure prescription drug delivery.",
       tags: [
         {
           name: "react",
