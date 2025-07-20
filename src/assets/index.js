@@ -24,6 +24,7 @@ import Java from "./tech/Java.svg";
 import Python from "./tech/Python.png";
 import Vuejs from "./tech/Vuejs.webp";
 import C from "./tech/C.png";
+import Swift from "./tech/Swift.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -46,6 +47,7 @@ import Gmail from "./Gmail.png";
 import Resume from "./Manoharan_Shayan_Resume.pdf";
 import FutureMap from "./FutureMap.png";
 import ToDoList from "./ToDoList.png";
+
 
 export {
   logo,
@@ -91,5 +93,6 @@ export {
   C,
   Resume,
   FutureMap,
-  ToDoList
+  ToDoList,
+  Swift,
 };
