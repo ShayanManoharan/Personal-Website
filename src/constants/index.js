@@ -35,6 +35,7 @@ import {
     C,
     Resume,
     FutureMap,
+    ToDoList,
   } from "../assets";
   
   export const navLinks = [
@@ -135,7 +136,7 @@ import {
           },
       ],
       image: FutureMap,
-      source_code_link: "https://github.com/ShayanManoharan",
+      source_code_link: "https://github.com/ShayanManoharan/future-map",
     },
     {
       name: "PharmaGo",
@@ -157,6 +158,27 @@ import {
       ],
       image: PharmaGo,
       source_code_link: "https://github.com/ShayanManoharan",
+    },
+    {
+      name: "To Do List app",
+      description:
+        "To Do List App is a SwiftUI-based task management application integrated with Firebase for real-time authentication and cloud storage. Users can securely register or log in, create new tasks with due dates, and track their progress with a sleek and responsive interface. The app features dynamic list updates, colorful custom headers for each screen, and intuitive tab-based navigation between viewing and creating tasks — making it a lightweight but powerful productivity tool.",
+      tags: [
+        {
+          name: "Swift",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Firebase",
+          color: "pink-text-gradient",
+        },
+        {
+            name: "Xcode",
+            color: "red-text-gradient",
+          },
+      ],
+      image: ToDoList,
+      source_code_link: "https://github.com/ShayanManoharan/ToDoListApp",
     },
     {
       name: "Streamline",

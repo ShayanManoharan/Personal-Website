@@ -45,6 +45,7 @@ import ResumePNG from "./Resume.png";
 import Gmail from "./Gmail.png";
 import Resume from "./Manoharan_Shayan_Resume.pdf";
 import FutureMap from "./FutureMap.png";
+import ToDoList from "./ToDoList.png";
 
 export {
   logo,
@@ -89,5 +90,6 @@ export {
   Vuejs,
   C,
   Resume,
-  FutureMap
+  FutureMap,
+  ToDoList
 };
