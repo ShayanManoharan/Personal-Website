@@ -78,11 +78,12 @@ import {
       company_name: "WillowTree",
       icon: WillowTree,
       iconBg: "#383E56",
-      date: "May 2025 - August 2025",
+      date: "May 2025 - Present",
       link: "https://www.willowtreeapps.com",
       points: [
         "Integrated live Radar SDK across 4,300+ stores in Swift to boost real-time location accuracy and app reliability, enhancing the app’s ability to deliver location-based services at scale.",
-        "Building components for a “Favorite Order” feature designed to improve repeat order flow efficiency by 30% for over 2 million users, streamlining the user experience through personalized, high-traffic ordering paths.",    
+        "Building components for a “Favorite Order” feature designed to improve repeat order flow efficiency by 30% for over 2 million users, streamlining the user experience through personalized, high-traffic ordering paths.",
+        "Improved order analytics visibility by 40% through implementing quantitative parameters in Segment events to strengthen tracking and user behavior analysis.",   
       ],
     },
     {
