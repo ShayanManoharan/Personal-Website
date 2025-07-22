@@ -24,7 +24,7 @@ import Java from "./tech/Java.svg";
 import Python from "./tech/Python.png";
 import Vuejs from "./tech/Vuejs.webp";
 import C from "./tech/C.png";
-import Swift from "./tech/Swift.png";
+//import Swift from "./tech/Swift.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -94,5 +94,5 @@ export {
   Resume,
   FutureMap,
   ToDoList,
-  Swift,
+//  Swift,
 };

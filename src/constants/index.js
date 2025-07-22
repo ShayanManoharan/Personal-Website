@@ -36,7 +36,7 @@ import {
     Resume,
     FutureMap,
     ToDoList,
-    Swift,
+    //Swift,
   } from "../assets";
   
   export const navLinks = [
@@ -51,14 +51,14 @@ import {
     {
       id: "contact",
       title: "Contact",
-      icon: "OhioState",
+      // icon: "OhioState",
     },
   ];
   
   const services = [
     {
       title: "Mobile App Developer",
-      icon: Swift,
+      icon: reactjs,
     },
     {
       title: "React & React Native Developer",
@@ -221,10 +221,10 @@ import {
       name: "C",
       icon: C,
     },
-    {
+    /*{
       name: "Swift",
       icon: Swift,
-    },
+    },*/
     {
       name: "React JS",
       icon: reactjs,
