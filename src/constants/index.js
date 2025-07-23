@@ -51,7 +51,7 @@ import {
     {
       id: "contact",
       title: "Contact",
-      // icon: "OhioState",
+      icon: "OhioState",
     },
   ];
   
@@ -61,16 +61,16 @@ import {
       icon: mobile,
     },
     {
-      title: "React & React Native Developer",
-      icon: reactjs,
-    },
-    {
       title: "Python Developer",
       icon: Python,
     },
     {
       title: "Java Developer",
       icon: Java,
+    },
+    {
+      title: "React & React Native Developer",
+      icon: reactjs,
     },
   ];
   
