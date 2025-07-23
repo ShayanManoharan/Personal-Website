@@ -58,7 +58,7 @@ import {
   const services = [
     {
       title: "Mobile App Developer",
-      icon: reactjs,
+      icon: mobile,
     },
     {
       title: "React & React Native Developer",
