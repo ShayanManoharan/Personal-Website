@@ -77,7 +77,7 @@ import {
   const experiences = [
     {
       title: "Software Engineer Intern",
-      company_name: "WillowTree",
+      company_name: "WillowTree, A TELUS Digital Company",
       icon: WillowTree,
       iconBg: "#383E56",
       date: "May 2025 - Present",
