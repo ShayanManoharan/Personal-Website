@@ -176,7 +176,7 @@ import {
         {
             name: "Xcode",
             color: "red-text-gradient",
-          },
+        },
       ],
       image: ToDoList,
       source_code_link: "https://github.com/ShayanManoharan/ToDoListApp",
