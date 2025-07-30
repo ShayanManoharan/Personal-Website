@@ -93,7 +93,7 @@ import {
       company_name: "Lighthouse Avionics",
       icon: Lighthouseavionics,
       iconBg: "#383E56",
-      date: "May 2024 - September 2024",
+      date: "May 2024 - August 2024",
       link: "https://lighthouseavionics.com",
       points: [
         "Developed an API-integrated query page, accelerating detection and classification by 84% using Vue.js",    
