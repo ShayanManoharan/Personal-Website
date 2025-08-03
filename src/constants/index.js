@@ -48,11 +48,15 @@ import {
       id: "work",
       title: "Work",
     },
+    { id: "projects", 
+      title: "Projects" 
+    },
     {
       id: "contact",
       title: "Contact",
       icon: "OhioState",
     },
+
   ];
   
   const services = [
