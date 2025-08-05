@@ -53,7 +53,7 @@ const About = () => {
         solutions and learning new technologies. Outside of school, you’ll find me playing basketball,
         spending time with family and friends, or playing the Piano. I’m passionate about playing the
         piano because it’s not just a beautiful art form—it’s a way to express creativity while teaching 
-        me focus, precision, and how to balance art with problem-solving."
+        me how to balance art with problem-solving."
 
 
       </motion.p>
