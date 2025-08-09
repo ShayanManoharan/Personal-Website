@@ -56,12 +56,11 @@ import {
       title: "Contact",
       icon: "OhioState",
     },
-
   ];
   
   const services = [
     {
-      title: "Mobile App Developer",
+      title: "iOS App Developer",
       icon: mobile,
     },
     {
