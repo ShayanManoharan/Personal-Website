@@ -54,8 +54,6 @@ const About = () => {
         spending time with family and friends, or playing the Piano. I’m passionate about playing the
         piano because it’s not just a beautiful art form—it’s a way to express creativity while teaching 
         me how to balance art with problem-solving."
-
-
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
