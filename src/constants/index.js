@@ -112,6 +112,7 @@ import {
         icon: OhioState,
         iconBg: "#383E56",
         date: "August 2023 - Present",
+        link: "https://www.osu.edu/",
         points: [
           "GPA: 3.9/4.0",
           "Dean’s List: Ohio State College of Engineering (4x recipient)",
