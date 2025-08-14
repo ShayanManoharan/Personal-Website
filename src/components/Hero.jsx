@@ -19,8 +19,8 @@ const Hero = () => {
             <span className='text-[#915EFF]'>Hi, I'm Shayan Manoharan</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-          Aspiring software developer with a passion for creating <br className='sm:block hidden' />
-          interactive and visually appealing web and mobile applications. 
+            Software Engineer developing production-grade applications for millions of users,
+            focusing on iOS, full-stack solutions, and backend integrations.
           </p>
         </div>
       </div>
