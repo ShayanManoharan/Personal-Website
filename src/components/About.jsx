@@ -47,13 +47,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Hello, I’m Shayan—a passionate software engineer and computer science student at The 
-        Ohio State University, set to graduate in May 2027. I specialize in software development, 
-        combining technical expertise with creative problem-solving. I enjoy creating innovative 
-        solutions and learning new technologies. Outside of school, you’ll find me playing basketball,
-        spending time with family and friends, or playing the Piano. I’m passionate about playing the
-        piano because it’s not just a beautiful art form—it’s a way to express creativity while teaching 
-        me how to balance art with problem-solving."
+        Hello, I’m Shayan, a passionate Software Engineer and Computer Science student at The Ohio 
+        State University, set to graduate in May 2027. I’ve contributed to large-scale, real world
+        applications through internships at WillowTree and Lighthouse Avionics. My work spans crafting
+        intuitive iOS and web apps to engineering reliable backend infrastructure. Outside of school and
+        work, I enjoy playing basketball, spending time with friends and family, and playing piano. I enjoy 
+        playing the piano because of the unqiue blend of creativity, patterns, and precision.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
