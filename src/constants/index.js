@@ -168,7 +168,7 @@ import {
     {
       name: "To Do List app",
       description:
-        "To Do List App is a SwiftUI-based task management application integrated with Firebase for real-time authentication and cloud storage. Users can securely register or log in, create new tasks with due dates, and track their progress with a sleek and responsive interface. The app features dynamic list updates, colorful custom headers for each screen, and intuitive tab-based navigation between viewing and creating tasks — making it a lightweight but powerful productivity tool.",
+        "To Do List App is a SwiftUI-based task management application integrated with Firebase for real-time authentication and cloud storage. Users can securely log in, create new tasks with due dates, and track their progress with a sleek and responsive interface. The app features dynamic list updates, colorful custom headers for each screen, and intuitive tab-based navigation between viewing and creating tasks.",
       tags: [
         {
           name: "Swift",
