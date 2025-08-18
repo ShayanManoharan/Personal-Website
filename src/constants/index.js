@@ -226,10 +226,6 @@ import {
       name: "C",
       icon: C,
     },
-    /*{
-      name: "Swift",
-      icon: Swift,
-    },*/
     {
       name: "React JS",
       icon: reactjs,
