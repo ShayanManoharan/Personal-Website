@@ -189,7 +189,7 @@ import {
     {
       name: "Streamline",
       description:
-        "Created a Java program to aggregate multiple RSS 2.0 feeds into a consolidated HTML file output. Utilized XML parsing to process each RSS feed URL generating individual HTML pages with detailed feed information.",
+        "Created a Java program to aggregate multiple news feeds into a consolidated HTML file output. Utilized XML parsing to process each RSS feed URL generating individual HTML pages with detailed feed information.",
       tags: [
         {
           name: "java",
