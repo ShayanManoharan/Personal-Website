@@ -47,6 +47,7 @@ import Gmail from "./Gmail.png";
 import Resume from "./Manoharan_Shayan_Resume.pdf";
 import FutureMap from "./FutureMap.png";
 import ToDoList from "./ToDoList.png";
+import Ecom from "./EcomImage.png";
 
 
 export {
@@ -95,4 +96,5 @@ export {
   FutureMap,
   ToDoList,
 //  Swift,
+  Ecom,
 };

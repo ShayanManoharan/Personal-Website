@@ -36,6 +36,7 @@ import {
     Resume,
     FutureMap,
     ToDoList,
+    Ecom,
     //Swift,
   } from "../assets";
   
@@ -141,7 +142,7 @@ import {
             color: "red-text-gradient",
           },
       ],
-      image: FutureMap,
+      image: Ecom,
       source_code_link: "https://github.com/ShayanManoharan/future-map",
     },
     {
