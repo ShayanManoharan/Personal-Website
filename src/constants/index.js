@@ -124,6 +124,27 @@ import {
   
   const projects = [
     {
+      name: "Core Commmerce",
+      description:
+        "Built an e-commerce platform with RESTful APIs supporting inventory tracking across 10+ product categories. Architected infrastructure with Docker Compose, Spring Boot, and PostgreSQL, streamlining deployments. Integrated AWS S3 cloud storage for product images, ensuring scalable support for 1,000+ assets",
+      tags: [
+        {
+          name: "spring boot",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "aws s3",
+          color: "pink-text-gradient",
+        },
+        {
+            name: "docker",
+            color: "red-text-gradient",
+          },
+      ],
+      image: FutureMap,
+      source_code_link: "https://github.com/ShayanManoharan/future-map",
+    },
+    {
       name: "Future Map",
       description:
         "Developed an AI-powered academic planning tool aimed at helping over 3.7 million students navigate post-graduation uncertainty. Leveraging the OpenAI API, I built a personalized recommendation engine to boost student engagement by generating over five dynamic content modules—including suggested majors, programs, and certifications—delivered through a real-time, interactive dashboard.",
