@@ -148,7 +148,7 @@ import {
     {
       name: "Future Map",
       description:
-        "Developed an AI-powered academic planning tool aimed at helping over 3.7 million students navigate post-graduation uncertainty. Leveraging the OpenAI API, I built a personalized recommendation engine to boost student engagement by generating over five dynamic content modules—including suggested majors, programs, and certifications—delivered through a real-time, interactive dashboard.",
+        "Developed an AI-powered academic planning tool aimed at helping over 3.7 million students navigate post highschool graduation uncertainty. Leveraging the OpenAI API, I built a personalized recommendation engine to boost student engagement by generating over five dynamic content modules—including suggested majors, programs, and certifications—delivered through a real-time, interactive dashboard.",
       tags: [
         {
           name: "react",
