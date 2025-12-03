@@ -38,6 +38,7 @@ import {
     ToDoList,
     Ecom,
     //Swift,
+    OpenPathClep,
   } from "../assets";
   
   export const navLinks = [
@@ -130,20 +131,20 @@ import {
         "Built a full-stack CLEP policy platform for Modern States serving 700K+ learners and 3K+ partner colleges. Developed Django REST APIs and MongoDB Atlas pipelines to enable real-time synchronization and secure data access. Improved frontend performance and user flow by 40% by building a React + TypeScript interface using Tailwind UI, Google Maps API, and AI-generated summaries to streamline navigation and data display.",
       tags: [
         {
-          name: "spring boot",
+          name: "django",
           color: "blue-text-gradient",
         },
         {
-          name: "aws s3",
+          name: "react",
           color: "pink-text-gradient",
         },
         {
-            name: "docker",
+            name: "mongoDB",
             color: "red-text-gradient",
           },
       ],
-      image: Ecom,
-      source_code_link: "https://github.com/ShayanManoharan/future-map",
+      image: OpenPathClep,
+      source_code_link: "https://github.com/cfgcolumbus25/Team-18",
     },
     {
       name: "Core Commmerce",

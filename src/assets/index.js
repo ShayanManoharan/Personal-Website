@@ -48,7 +48,7 @@ import Resume from "./Manoharan_Shayan_Resume.pdf";
 import FutureMap from "./FutureMap.png";
 import ToDoList from "./ToDoList.png";
 import Ecom from "./EcomImage.png";
-
+import OpenPathClep from "./OpenPathClep.png";
 
 export {
   logo,
@@ -97,4 +97,5 @@ export {
   ToDoList,
 //  Swift,
   Ecom,
+  OpenPathClep,
 };
