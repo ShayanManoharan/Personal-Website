@@ -165,7 +165,7 @@ import {
           },
       ],
       image: Ecom,
-      source_code_link: "https://github.com/ShayanManoharan/future-map",
+      source_code_link: "https://github.com/ShayanManoharan/ecom-engine",
     },
     {
       name: "Future Map",
