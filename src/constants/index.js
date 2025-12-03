@@ -125,6 +125,27 @@ import {
   
   const projects = [
     {
+      name: "Open Path (JPMorgan Code for Good 2025)",
+      description:
+        "Built a full-stack CLEP policy platform for Modern States serving 700K+ learners and 3K+ partner colleges. Developed Django REST APIs and MongoDB Atlas pipelines to enable real-time synchronization and secure data access. Improved frontend performance and user flow by 40% by building a React + TypeScript interface using Tailwind UI, Google Maps API, and AI-generated summaries to streamline navigation and data display.",
+      tags: [
+        {
+          name: "spring boot",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "aws s3",
+          color: "pink-text-gradient",
+        },
+        {
+            name: "docker",
+            color: "red-text-gradient",
+          },
+      ],
+      image: Ecom,
+      source_code_link: "https://github.com/ShayanManoharan/future-map",
+    },
+    {
       name: "Core Commmerce",
       description:
         "Built an e-commerce platform with RESTful APIs supporting inventory tracking across 10+ product categories. Architected infrastructure with Docker Compose, Spring Boot, and PostgreSQL, streamlining deployments. Integrated AWS S3 cloud storage for product images, ensuring scalable support for 1,000+ assets",
