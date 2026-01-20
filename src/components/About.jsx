@@ -48,11 +48,14 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         Hello, I’m Shayan, a passionate Software Engineer and Computer Science student at The Ohio 
-        State University, set to graduate in May 2027. I’ve contributed to large-scale, real world
-        applications through internships at WillowTree and Lighthouse Avionics. My work spans crafting
-        intuitive iOS and web apps to engineering reliable backend infrastructure. Outside of school and
-        work, I enjoy playing basketball, spending time with friends and family, and playing piano. I enjoy 
-        playing the piano because of the unqiue blend of creativity, patterns, and precision.
+        State University, set to graduate in May 2027. I specialize in scale-oriented engineering, 
+        with experience shipping production features and backend refactors for a consumer app with 
+        over 490K daily active users. Through internships at WillowTree and Lighthouse Avionics, I 
+        have contributed to large-scale, real-world applications ranging from intuitive iOS and web 
+        apps to reliable backend infrastructure. A little fun fact about me is I love to travel. I've 
+        been to 12 countries all around the world so far, and am excited for  what the future holds. 
+        I also enjoy playing basketball, spending time with friends and family, and playing the piano 
+        for its unique blend of creativity and patterns.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
