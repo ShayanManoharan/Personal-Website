@@ -119,7 +119,7 @@ import {
           "GPA: 3.9/4.0",
           "Dean’s List: Ohio State College of Engineering (4x recipient)",
           "Activites and Socities: Big Data And Analytics Association, Development and Operations (SWE) club, Artificial Intelligence (AI) club",
-          "Relevant Coursework: Software Development and Design, Software Components, Discrete Structures and Algorithms, Programming Java, Probability and Statistics for Engineers, Fundamentals of Engineering ",
+          "Relevant Coursework: Data Structures and Algorithms, Database Systems, Computer Networking, Artificial Intelligence, Principles of Programming, Software Engineering",
         ],
       },
   ];
