@@ -37,7 +37,7 @@ import tripguide from "./tripguide.png";
 
 import PharmaGo from "./PharmaGo.png";
 import RSSFeed from "./RSSFeed.png";
-import SMlogo from "./SMlogo.png";
+import SMlogo from "./SMlogo.svg";
 import OhioState from "./OhioState.png";
 import WillowTree from "./WillowTree.png";
 import Lighthouseavionics from "./LighthouseAvionics.png";
